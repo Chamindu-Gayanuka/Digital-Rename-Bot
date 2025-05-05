@@ -4,4 +4,5 @@ env/
 
 # IDE-specific files
 .idea/
-.vscode/
+config.bat
+node_modules
